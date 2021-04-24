@@ -1,2 +1,2 @@
 # Genetic-algorithm
-Toate informatiile despre cod si implementare pot fi regasite in raport. 
+All needed information can be found in the attached writing paper .
